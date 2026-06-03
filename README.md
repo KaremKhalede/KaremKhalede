@@ -1,16 +1,16 @@
 # Hi there, I'm Abdulkarem Bawazir 👋
-### Data Scientist & Analytics | Master's Graduate
+### Data Scientist & Analytics | AI Engineer 
 
-I am a detail-oriented **Data Scientist and Analyst** with a Master's degree in Data Science and Analytics and a background in Software Engineering. I am passionate about transforming raw data into actionable business insights, optimization, and deploying intelligent data-driven solutions.
+I am a detail-oriented **Data Scientist** and **GenAI Developer** specializing in transforming raw data into actionable business insights and deploying intelligent, data-driven solutions. Experienced in building Multi-Agent AI systems and advanced predictive models.
 
 ---
 
 ## 🛠️ Technical Skills
 
-* 📊 **Data Analysis & BI:** Insight Extraction for Decision-Making, Time-Series Forecasting (ARIMA/SARIMA), Power BI (Interactive Dashboards), Tableau, Advanced Excel.
-* 🐍 **Programming & Tools:** Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL, HTML, CSS.
+* 📊 **Data Analysis & BI:** Insight Extraction for Decision-Making, Time-Series Forecasting (ARIMA/SARIMA), Power BI (Interactive Dashboards), Advanced Excel.
+* 🐍 **Programming & Tools:** Python (Pandas, NumPy, Matplotlib, Scikit-learn).
 * 🤖 **Advanced AI:** Multi-Agent Systems, CrewAI Framework, LLM Orchestration.
-* 🏗️ **Data Engineering:** ETL Processes, Data Warehousing Architecture, Medallion Architecture (Bronze, Silver, Gold).
+* 🏗️ **Data Engineering:** SQL (ETL Processes, Data Warehousing Architecture, Medallion Architecture (Bronze, Silver, Gold)).
 
 ---
 
